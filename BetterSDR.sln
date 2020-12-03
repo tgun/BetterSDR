@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSDR", "BetterSDR\BetterSDR.csproj", "{E1604A9C-AB2C-4D95-BF59-767FF8D6B3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSDR.Common", "BetterSDR.Common\BetterSDR.Common.csproj", "{DA2DBD42-2D84-4591-964A-3B8F8626415B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSDR.Common.Tests", "BetterSDR.Common.Tests\BetterSDR.Common.Tests.csproj", "{28AFFF0C-D28F-4624-91F8-19D1C337F29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSDR.Controls", "BetterSDR.Controls\BetterSDR.Controls.csproj", "{E358907F-452C-4657-BD26-0E38954E214E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSDR.RTLSDR", "BetterSDR.RTLSDR\BetterSDR.RTLSDR.csproj", "{0DE99142-09C0-4841-A6D7-0C8356D6A5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1604A9C-AB2C-4D95-BF59-767FF8D6B3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1604A9C-AB2C-4D95-BF59-767FF8D6B3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1604A9C-AB2C-4D95-BF59-767FF8D6B3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1604A9C-AB2C-4D95-BF59-767FF8D6B3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2DBD42-2D84-4591-964A-3B8F8626415B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2DBD42-2D84-4591-964A-3B8F8626415B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2DBD42-2D84-4591-964A-3B8F8626415B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2DBD42-2D84-4591-964A-3B8F8626415B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AFFF0C-D28F-4624-91F8-19D1C337F29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AFFF0C-D28F-4624-91F8-19D1C337F29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AFFF0C-D28F-4624-91F8-19D1C337F29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AFFF0C-D28F-4624-91F8-19D1C337F29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E358907F-452C-4657-BD26-0E38954E214E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E358907F-452C-4657-BD26-0E38954E214E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E358907F-452C-4657-BD26-0E38954E214E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E358907F-452C-4657-BD26-0E38954E214E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE99142-09C0-4841-A6D7-0C8356D6A5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE99142-09C0-4841-A6D7-0C8356D6A5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE99142-09C0-4841-A6D7-0C8356D6A5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE99142-09C0-4841-A6D7-0C8356D6A5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D153F5AC-4BE9-4F68-A555-C47F60557306}
+	EndGlobalSection
+EndGlobal
